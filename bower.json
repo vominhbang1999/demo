@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "bangvo1999 <vominhbang1999@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vominhbang1999/demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
